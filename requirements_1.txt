@@ -1,0 +1,9 @@
+
+pip install wikipedia-api spacy scikit-learn
+wikipedia-api
+spacy
+scikit-learn
+
+
+pip install nltk
+nltk
